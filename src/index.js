@@ -1,7 +1,7 @@
-// import products from "./js/data.js";
-// import createList from "./templaties/smart.hbs";
+import { products } from "./js/data.js";
+import createList from "./templaties/smart.hbs";
 
-// const body = document.querySelector("body");
-// console.log(createList(products));
+const body = document.querySelector("body");
+console.log(createList({ products }));
 
-// body.innerHTML = createList(products);
+body.innerHTML = createList({ products });
