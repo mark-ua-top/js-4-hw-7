@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/index.js"],"sourcesContent":["// import products from \"./js/data.js\";\n// import createList from \"./templaties/smart.hbs\";\n\n// const body = document.querySelector(\"body\");\n// console.log(createList(products));\n\n// body.innerHTML = createList(products);\n"],"names":[],"version":3,"file":"js-4-hw-7.76ac7884.js.map"}
